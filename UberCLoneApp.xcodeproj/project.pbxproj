@@ -51,6 +51,11 @@
 		9404B5D22B0FC364009F295E /* UberCLoneApp */ = {
 			isa = PBXGroup;
 			children = (
+				9404B5E52B0FC7C9009F295E /* Models */,
+				9404B5E42B0FC7C2009F295E /* Managers */,
+				9404B5E32B0FC7BB009F295E /* Extensions */,
+				9404B5E22B0FC7B5009F295E /* Core */,
+				9404B5E12B0FC7AF009F295E /* App */,
 				9404B5D32B0FC364009F295E /* UberCLoneAppApp.swift */,
 				9404B5D52B0FC364009F295E /* ContentView.swift */,
 				9404B5D72B0FC366009F295E /* Assets.xcassets */,
@@ -65,6 +70,41 @@
 				9404B5DA2B0FC366009F295E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9404B5E12B0FC7AF009F295E /* App */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		9404B5E22B0FC7B5009F295E /* Core */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		9404B5E32B0FC7BB009F295E /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		9404B5E42B0FC7C2009F295E /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		9404B5E52B0FC7C9009F295E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
